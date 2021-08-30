@@ -6,11 +6,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dragosstancu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dragos " align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **SolidPitch US** 
-- :seedling: &nbsp;I’m currently learning **Svelte** 
-- :speech_balloon: &nbsp;I like to talk about **Front-End Development** and **Start Ups** 
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :) 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- I'm currently working at **SolidPitch US** 
+- I’m currently learning **Svelte** 
+- I like to talk about **Front-End Development** and **Start Ups** 
 <br>
 
 <h2 align="left" id="dragos-tech">Favorite Tech</h2>
