@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
 <h1 align="left" id="Dragos-title">:wave: Hello there! I'm Dragos </h1>
-<h3 align="left">I am a Software Developer at SolidPitch </h3>
+<h3 align="left">I am a Software Developer at Webfix Studio/SolidPitch </h3>
 
 
 <a href="#Dragos-title">
