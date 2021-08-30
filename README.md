@@ -1,10 +1,11 @@
+<a href="#Dragos-title">
+    <img src="https://github-readme-stats.vercel.app/api?username=dragosstancu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dragos " align="right" />
+</a>
 <h1 align="left" id="Dragos-title">:wave: Hello there! I'm Dragos </h1>
 <h3 align="left">I am a Software Developer at Webfix Studio/SolidPitch </h3>
 
 
-<a href="#Dragos-title">
-    <img src="https://github-readme-stats.vercel.app/api?username=dragosstancu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dragos " align="right" />
-</a>
+
 
 - I'm currently working at **SolidPitch US** 
 - I’m currently learning **Svelte** 
