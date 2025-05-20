@@ -2,12 +2,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dragosstancu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Dragos " align="right" />
 </a>
 <h1 align="left" id="Dragos-title">:wave: Hello there! I'm Dragos </h1>
-<h3 align="left">I am a Software Developer at Webfix Studio/SolidPitch </h3>
+<h3 align="left">I am a Web Developer at Webfix Studio/WooSonic </h3>
 
 
 
 
-- I'm currently working at **SolidPitch US** 
+- I'm currently working at **WooSonic US** 
 - I’m currently learning **Svelte** 
 - I like to talk about **Front-End Development** and **Start Ups** 
 <br>
